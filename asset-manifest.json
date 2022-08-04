@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sarthakgupta878/BigBooster-Assignment1.git/static/css/main.073c9b0a.css",
+    "main.js": "/sarthakgupta878/BigBooster-Assignment1.git/static/js/main.469e069d.js",
+    "static/js/787.6d0d8630.chunk.js": "/sarthakgupta878/BigBooster-Assignment1.git/static/js/787.6d0d8630.chunk.js",
+    "index.html": "/sarthakgupta878/BigBooster-Assignment1.git/index.html",
+    "main.073c9b0a.css.map": "/sarthakgupta878/BigBooster-Assignment1.git/static/css/main.073c9b0a.css.map",
+    "main.469e069d.js.map": "/sarthakgupta878/BigBooster-Assignment1.git/static/js/main.469e069d.js.map",
+    "787.6d0d8630.chunk.js.map": "/sarthakgupta878/BigBooster-Assignment1.git/static/js/787.6d0d8630.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.469e069d.js"
+  ]
+}
